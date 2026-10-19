@@ -1,0 +1,16 @@
+# Node / NestJS
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.venv/
+
+# IDE & Système
+.idea/
+.vscode/
+.DS_Store
